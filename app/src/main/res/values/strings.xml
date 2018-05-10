@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vinote</string>
+    <string name="title_activity_vin">VinActivity</string>
+</resources>
